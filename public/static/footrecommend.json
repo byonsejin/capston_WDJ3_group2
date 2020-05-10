@@ -1,0 +1,69 @@
+{
+    "footrecommend": [{
+            "foot_id": 10,
+            "foot_name": "주먹밥",
+            "foot_recipe": ["/static/recipe_img/레시피.jpg","/static/recipe_img/레시피2.jpg","/static/recipe_img/레시피3.jpg"],
+            "foot_kind":"한식",
+            "foot_weight":"10",
+            "foot_calorimetry":"20",
+            "foot_Carbohydrate":"30",
+            "foot_protein":"40",
+            "foot_local":"50",
+            "foot_natrium":"60",
+            "foot_img":"/static/recipe_img/1.jpg",
+            "foot_material": [
+                "당근","우엉","밥","참기름","깨",
+                "호박","김치","콩나물","라면","복숭아",
+                "감자","우유","두부","식초","토마토"
+            ]           
+        },
+        {
+            "foot_id": 20,
+            "foot_name": "스시",
+            "foot_recipe": ["/static/recipe_img/레시피.jpg","/static/recipe_img/레시피2.jpg"],
+            "foot_kind":"일식",
+            "foot_weight":"10",
+            "foot_calorimetry":"20",
+            "foot_Carbohydrate":"30",
+            "foot_protein":"40",
+            "foot_local":"50",
+            "foot_natrium":"60",
+            "foot_img":"/static/recipe_img/4.jpg",
+            "foot_material": [
+                "당근","우엉","밥","참기름","깨"
+            ]            
+        },
+        {
+            "foot_id": 30,
+            "foot_name": "돈까스",
+            "foot_recipe": ["/static/recipe_img/레시피.jpg"],
+            "foot_kind":"일식",
+            "foot_weight":"10",
+            "foot_calorimetry":"20",
+            "foot_Carbohydrate":"30",
+            "foot_protein":"40",
+            "foot_local":"50",
+            "foot_natrium":"60",
+            "foot_img":"/static/recipe_img/2.jpg",
+            "foot_material": [
+                "당근","우엉","밥","참기름","깨"
+            ]            
+        },
+        {
+            "foot_id": 40,
+            "foot_name": "스파게티",
+            "foot_recipe": ["/static/recipe_img/레시피.jpg","/static/recipe_img/레시피2.jpg","/static/recipe_img/레시피3.jpg","/static/recipe_img/레시피4.jpg"],
+            "foot_kind":"양식",
+            "foot_weight":"10",
+            "foot_calorimetry":"20",
+            "foot_Carbohydrate":"30",
+            "foot_protein":"40",
+            "foot_local":"50",
+            "foot_natrium":"60",
+            "foot_img":"/static/recipe_img/3.jpg",
+            "foot_material": [
+                "당근","우엉","밥","참기름","깨"
+            ]            
+        }
+    ]
+}
