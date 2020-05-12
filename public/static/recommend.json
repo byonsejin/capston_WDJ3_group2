@@ -1,0 +1,69 @@
+{
+    "recommend": [{
+            "id": 1001,
+            "recommend_name": "썬더 치킨",
+            "recommend_tel": "011-3456-7890",
+            "recommend_address": "북구 복현동 123-1",
+            "recommend_menu": [
+                "순살 치킨", "양념 치킨", "간장 치킨", "양파 치킨","마요네즈 치킨"
+            ],
+            "image": "/static/recommend_img/a.jpg",
+            "gps":"/static/recommend_img/위치.png"
+        },
+        {
+            "id": 1002,
+            "recommend_name": "호시기 치킨",
+            "recommend_tel": "012-3456-7890",
+            "recommend_address": "북구 복현동 123-2",
+            "recommend_menu": [
+                "순살 치킨", "양념 치킨", "간장 치킨", "양파 치킨","마요네즈 치킨"
+            ],
+            "image": "/static/recommend_img/b.jpg",
+            "gps":"/static/recommend_img/위치.png"
+        },
+        {
+            "id": 1003,
+            "recommend_name": "네네 치킨",
+            "recommend_tel": "013-3456-7890",
+            "recommend_address": "북구 복현동 123-3",
+            "recommend_menu": [
+                "순살 치킨", "양념 치킨", "간장 치킨", "양파 치킨","마요네즈 치킨"
+            ],
+            "image": "/static/recommend_img/c.jpg",
+            "gps":"/static/recommend_img/위치.png"
+        },
+        {
+            "id": 1004,
+            "recommend_name": "썬더 치킨",
+            "recommend_tel": "014-3456-7890",
+            "recommend_address": "북구 복현동 123-4",
+            "recommend_menu": [
+                "순살 치킨", "양념 치킨", "간장 치킨", "양파 치킨","마요네즈 치킨"
+            ],
+            "image": "/static/recommend_img/d.jpg",
+            "gps":"/static/recommend_img/위치.png"
+        },
+        {
+            "id": 1005,
+            "recommend_name": "썬더 치킨",
+            "recommend_tel": "015-3456-7890",
+            "recommend_address": "북구 복현동 123-5",
+            "recommend_menu": [
+                "순살 치킨", "양념 치킨", "간장 치킨", "양파 치킨","마요네즈 치킨"
+            ],
+            "image": "/static/recommend_img/e.jpg",
+            "gps":"/static/recommend_img/위치.png"
+        },
+        {
+            "id": 1006,
+            "recommend_name": "썬더 치킨",
+            "recommend_tel": "012-3456-7890",
+            "recommend_address": "북구 복현동 123-6",
+            "recommend_menu": [
+                "순살 치킨", "양념 치킨", "간장 치킨", "양파 치킨","마요네즈 치킨"
+            ],
+            "image": "/static/recommend_img/f.jpg",
+            "gps":"/static/recommend_img/위치.png"
+        }
+    ]
+}

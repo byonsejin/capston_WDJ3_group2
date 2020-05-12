@@ -1,0 +1,67 @@
+{
+    "products": [{
+            "id": 1001,
+            "store_name": "홍대함바그",
+            "store_address": "대구 북구 복현로 33-1 2층 (우)41529",
+            "store_category": "양식",
+            "store_star_rating": 3,
+            "image": "./static/images/홍대함바그.png"
+        },
+        {
+            "id": 1002,
+            "store_name": "여부초밥",
+            "store_address": "대구 북구 복현로 22 (우)41530",
+            "store_category": "분식",
+            "store_star_rating": 4,
+            "image": "./static/images/여부초밥.png"
+        },
+        {
+            "id": 1003,
+            "store_name": "뚝불",
+            "store_address": "대구 북구 동북로57길 6-1",
+            "store_category": "분식",
+            "store_star_rating": 4,
+            "image": "./static/images/뚝불.png"
+        },
+        {
+            "id": 1004,
+            "store_name": "뚝불",
+            "store_address": "대구 북구 동북로57길 6-1",
+            "store_category": "분식",
+            "store_star_rating": 4,
+            "image": "./static/images/뚝불.png"
+        },
+        {
+            "id": 1005,
+            "store_name": "뚝불",
+            "store_address": "대구 북구 동북로57길 6-1",
+            "store_category": "분식",
+            "store_star_rating": 4,
+            "image": "./static/images/뚝불.png"
+        },
+        {
+            "id": 1006,
+            "store_name": "뚝불",
+            "store_address": "대구 북구 동북로57길 6-1",
+            "store_category": "분식",
+            "store_star_rating": 4,
+            "image": "./static/images/뚝불.png"
+        },
+        {
+            "id": 1007,
+            "store_name": "뚝불",
+            "store_address": "대구 북구 동북로57길 6-1",
+            "store_category": "분식",
+            "store_star_rating": 4,
+            "image": "./static/images/뚝불.png"
+        },
+        {
+            "id": 1008,
+            "store_name": "뚝불",
+            "store_address": "대구 북구 동북로57길 6-1",
+            "store_category": "분식",
+            "store_star_rating": 4,
+            "image": "./static/images/뚝불.png"
+        }
+    ]
+}
